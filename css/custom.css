@@ -1,17 +1,17 @@
 .site-content {
-  background-color: aquamarine;
+  background-color: white;
 }
 .logo-img {
   width: 60px;
 }
 
 .img-header {
-  transform: rotate(270deg);
+  transform: rotate();
   width: 100%;
   padding-right: 22%;
   margin-right: 0px;
 }
 
 .main-header {
-  background-color: aquamarine;
+  background-color: white;
 }
