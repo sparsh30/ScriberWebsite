@@ -1,1 +1,2 @@
-# ScriberWebsite
+# Scriber Website
+## Basic static website
